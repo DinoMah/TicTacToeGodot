@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/party-horn.wav-adaed41fa38bb204de76ffbc3831a270.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/party-horn.wav"
+dest_files=[ "res://.import/party-horn.wav-adaed41fa38bb204de76ffbc3831a270.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
